@@ -15,25 +15,25 @@ Three steps:
 
 ## Step 1: Configure the Initial Robo Advisor
 
-    * Create a Amazon Lex bot named RoboAdvisor 
+* Create a Amazon Lex bot named RoboAdvisor 
     
-    * Establish new intent, named recommenedPortfolio 
+* Establish new intent, named recommenedPortfolio 
   
-    * Congfig sample utterance:
+* Congfig sample utterance:
   
     <img width="352" alt="image" src="https://user-images.githubusercontent.com/105945472/188673772-41a44c10-9036-459c-b31e-8e2acccbbed7.png"> 
   
-    * Create four slots:
+* Create four slots:
     
     <img width="599" alt="image" src="https://user-images.githubusercontent.com/105945472/188673565-a2d1c3e9-097a-4897-8e91-2e6eb4327e22.png">
   
-    * Confirmation Prompts:
+* Confirmation Prompts:
   
     <img width="355" alt="image" src="https://user-images.githubusercontent.com/105945472/188674186-3218379b-675e-44e9-a09e-038339f6ed9d.png">
     
 ## Step 2: Build and Test the Robo Advisor   
   
-    * Build the bot buy selecting the Build button
+ * Build the bot buy selecting the Build button
   
     * When building it complete test the bot. 
   
