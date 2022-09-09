@@ -49,3 +49,6 @@ Three steps:
     
  * Inculded the Lambda function into the RoboAvisor bot and record a vid with bot working *Reference video located under Module-Challenge-15 repository file named:        Amazon Lex - Google Chrome 2022-09-06 05-47-12 
   
+  
+  # COMMENT 
+  Unfortunately, I my bot was unable to return a risk level response. I reviewed the risk level code portion several times and still was stumped on receiving an outcome. The utterances and slots for the bot operated properly. 
