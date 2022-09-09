@@ -48,6 +48,14 @@ Three steps:
  * Implement investment recommendations evidenced by the accuracy of the bots response. 
     
  * Inculded the Lambda function into the RoboAvisor bot and record a vid with bot working *Reference video located under Module-Challenge-15 repository file named:        Amazon Lex - Google Chrome 2022-09-06 05-47-12 
+
+
+## Technoliges
+  * AWS Lambda
+  * AWS Lex
+## Imports and Libraries
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
   
   
   # COMMENT 
